@@ -12,6 +12,7 @@
 		A30091E81FD863B7003F57DB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A30091E61FD863B7003F57DB /* Main.storyboard */; };
 		A30091EA1FD863B7003F57DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A30091E91FD863B7003F57DB /* Assets.xcassets */; };
 		A30091ED1FD863B7003F57DB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A30091EB1FD863B7003F57DB /* LaunchScreen.storyboard */; };
+		A30091F51FD8644E003F57DB /* sunset-and-clouds.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A30091F41FD8644E003F57DB /* sunset-and-clouds.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A30091E91FD863B7003F57DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A30091EC1FD863B7003F57DB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A30091EE1FD863B7003F57DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A30091F41FD8644E003F57DB /* sunset-and-clouds.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "sunset-and-clouds.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				A30091E21FD863B7003F57DB /* AppDelegate.swift */,
 				A30091E41FD863B7003F57DB /* ViewController.swift */,
+				A30091F41FD8644E003F57DB /* sunset-and-clouds.jpg */,
 				A30091E61FD863B7003F57DB /* Main.storyboard */,
 				A30091E91FD863B7003F57DB /* Assets.xcassets */,
 				A30091EB1FD863B7003F57DB /* LaunchScreen.storyboard */,
@@ -126,6 +129,7 @@
 				A30091ED1FD863B7003F57DB /* LaunchScreen.storyboard in Resources */,
 				A30091EA1FD863B7003F57DB /* Assets.xcassets in Resources */,
 				A30091E81FD863B7003F57DB /* Main.storyboard in Resources */,
+				A30091F51FD8644E003F57DB /* sunset-and-clouds.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
